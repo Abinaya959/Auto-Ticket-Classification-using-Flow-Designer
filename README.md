@@ -146,29 +146,6 @@ The project can be validated using the following test scenarios:
 
 Since this project uses predefined keyword conditions rather than a trained machine-learning model, traditional training accuracy, validation accuracy, and model confidence scores are not applicable.
 
-## 📸 Screenshots
-
-Add screenshots of your implementation to a folder named `screenshots/` in the repository.
-
-Recommended screenshots include:
-
-- Incident WorkFlow table and ticket form
-- Category and Subcategory configuration
-- Flow Designer trigger
-- Keyword-based classification branches
-- Example classified Wi-Fi ticket
-- Example classified Projector ticket
-- Example classified Password/Login ticket
-- Example classified Slow/Hanging ticket
-- Email notification output
-
-Example Markdown for displaying a screenshot:
-
-```markdown
-![Flow Designer Workflow](screenshots/flow-designer.png)
-```
-
-Replace the example image path with the actual path of your screenshot.
 
 ## 📊 Expected Results
 
